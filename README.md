@@ -58,7 +58,7 @@ python main.py
 
 ## Sơ đồ vận hành hệ thống
 
-![PPE Detection System Flow](docs/ppe_detection_flow.png)
+<img width="1024" height="1536" alt="Copilot_20250724_101040" src="https://github.com/user-attachments/assets/02eef93e-0d49-45af-8691-bc834185a4b4" />
 
 **Mô tả sơ đồ:**
 - Camera truyền tín hiệu video qua giao thức RTSP.
