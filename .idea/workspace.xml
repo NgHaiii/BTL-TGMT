@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f81b92ca-e337-4016-b8b8-c1d355dac56f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yolov8n-pose.pt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/BTL-TGMT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BTL-TGMT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -84,7 +86,7 @@
       <workItem from="1753281524225" duration="956000" />
       <workItem from="1753282527573" duration="152000" />
       <workItem from="1753287365037" duration="3180000" />
-      <workItem from="1753290633659" duration="18861000" />
+      <workItem from="1753290633659" duration="19531000" />
     </task>
     <servers />
   </component>
