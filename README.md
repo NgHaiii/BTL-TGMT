@@ -70,17 +70,12 @@ python main.py
 
 ```
 BTL-TGMT/
-├── main.py
-├── yolov8n-pose.pt
-├── requirements.txt
-├── ppe_detection_results/
-│   ├── detection_log.csv
-│   ├── ppe_detection_log.csv
-│   └── ...
-├── docs/
-│   └── ppe_detection_flow.png
 ├── .idea/
-└── ...
+├── README.md
+├── main.py
+├── requirements.txt
+├── sound.wav
+└── yolov8n-pose.pt
 ```
 
 ## Đóng góp & Hỗ trợ
