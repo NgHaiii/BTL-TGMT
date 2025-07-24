@@ -33,9 +33,33 @@ cd BTL-TGMT
 
 ### 2. Cài đặt thư viện cần thiết
 
-```bash
-pip install numpy==1.24.3 opencv-python==4.8.1.78 pillow ultralytics pygame
-```
+1. **Cài đặt PyCharm**  
+   Tải và cài đặt từ trang chủ: https://www.jetbrains.com/pycharm/
+
+2. **Cài đặt Anaconda**  
+   Link tải trực tiếp:  
+   https://repo.anaconda.com/archive/Anaconda3-2024.03-Windows-x86_64.exe
+
+3. **Tạo môi trường mới**  
+   Mở Anaconda PowerShell Prompt và nhập lệnh:  
+   ```
+   conda create -n ppe python=3.10
+   ```
+
+4. **Kích hoạt môi trường**  
+   Nhập lệnh sau vào Anaconda PowerShell Prompt:  
+   ```
+   conda activate ppe
+   ```
+
+5. **Cài đặt các thư viện cần thiết**  
+   Nhập các lệnh sau vào terminal (trong PyCharm hoặc Anaconda PowerShell Prompt):
+
+   ```
+   conda install numpy pillow pygame
+   pip install opencv-python==4.8.1.78 ultralytics pillow
+   ```
+
 
 ### 3. Chuẩn bị mô hình
 
