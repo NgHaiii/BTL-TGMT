@@ -34,7 +34,7 @@ cd BTL-TGMT
 ### 2. Cài đặt thư viện cần thiết
 
 ```bash
-pip install -r requirements.txt
+pip install numpy==1.24.3 opencv-python==4.8.1.78 pillow ultralytics pygame
 ```
 
 ### 3. Chuẩn bị mô hình
