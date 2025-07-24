@@ -54,12 +54,22 @@ cd BTL-TGMT
 
 5. **Cài đặt các thư viện cần thiết**  
    Nhập các lệnh sau vào terminal (trong PyCharm hoặc Anaconda PowerShell Prompt):
-
    ```
    conda install numpy pillow pygame
    pip install opencv-python==4.8.1.78 ultralytics pillow
    ```
+   *Lưu ý: Một số thư viện như `opencv-python`, `ultralytics` nên cài bằng pip.*
 
+6. **Chọn môi trường Python (Conda) trong PyCharm**
+   - Vào menu **File** → **Settings** (`Ctrl+Alt+S`).
+   - Chọn **Project: [Tên dự án]** → **Python Interpreter**.
+   - Nhấn **Add Interpreter**.
+   - Chọn **Conda Environment** → **Select existing**.
+   - Ở mục **Path to conda**, chọn đường dẫn tới file `conda.bat` (ví dụ: `C:\Users\PC ASUS\miniconda\condabin\conda.bat`).
+   - Ở mục **Environment**, chọn tên môi trường bạn đã tạo (ví dụ: `ppe`).
+   - Nhấn **OK** để xác nhận.
+
+Sau khi hoàn tất các bước trên, bạn đã sẵn sàng chạy chương trình trong môi trường đã cấu hình!
 
 ### 3. Chuẩn bị mô hình
 
