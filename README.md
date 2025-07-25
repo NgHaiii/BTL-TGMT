@@ -54,7 +54,7 @@ cd BTL-TGMT
 5. **Cài đặt các thư viện cần thiết**  
    Nhập các lệnh sau vào terminal (trong PyCharm hoặc Anaconda PowerShell Prompt):
    ```
-   conda install numpy pillow pygame
+   conda install numpy=1.26.4 pillow pygame
    pip install opencv-python==4.8.1.78 ultralytics pillow
    ```
    *Lưu ý: Một số thư viện như `opencv-python`, `ultralytics` nên cài bằng pip.*
