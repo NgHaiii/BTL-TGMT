@@ -38,8 +38,7 @@ cd BTL-TGMT
 
 2. **Cài đặt Anaconda**  
    Link tải trực tiếp:  
-   https://repo.anaconda.com/archive/Anaconda3-2024.03-Windows-x86_64.exe
-
+   https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe
 3. **Tạo môi trường mới**  
    Mở Anaconda PowerShell Prompt và nhập lệnh:  
    ```
